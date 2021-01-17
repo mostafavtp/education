@@ -20,7 +20,7 @@ namespace WindowsFormsApp5
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            updateTimes();
         }
 
         string getPerianDateString(DateTime dt)
@@ -45,13 +45,17 @@ namespace WindowsFormsApp5
 
         private void Timer1_Tick(object sender, EventArgs e)
         {
+            updateTimes();
+
+        }
+
+        private void updateTimes()
+        {
             DateTime now = DateTime.Now;
             lblGregDate.Text = now.ToString("yyyy-MM-dd", DateTimeFormatInfo.InvariantInfo);
             lblPersianDate.Text = getPerianDateString(now);
             lblHijriDate.Text = getHijriDateString(now);
             lblTime.Text = now.ToString("T", DateTimeFormatInfo.InvariantInfo);
-
-
         }
 
         private void ChkNoBorder_CheckedChanged(object sender, EventArgs e)

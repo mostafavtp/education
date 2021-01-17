@@ -16,3 +16,11 @@ D:\msf\programming\cs\winform\ShowPersianDate\ShowPersianDate\obj\Debug\ShowPers
 D:\msf\programming\cs\winform\ShowPersianDate\ShowPersianDate\obj\Debug\ShowPersianDate.csproj.CoreCompileInputs.cache
 D:\msf\programming\cs\winform\ShowPersianDate\ShowPersianDate\obj\Debug\ShowPersianDate.exe
 D:\msf\programming\cs\winform\ShowPersianDate\ShowPersianDate\obj\Debug\ShowPersianDate.pdb
+D:\msf\programming\myGit\education\ShowPersianDate\ShowPersianDate\bin\Debug\ShowPersianDate.exe
+D:\msf\programming\myGit\education\ShowPersianDate\ShowPersianDate\bin\Debug\ShowPersianDate.pdb
+D:\msf\programming\myGit\education\ShowPersianDate\ShowPersianDate\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\msf\programming\myGit\education\ShowPersianDate\ShowPersianDate\obj\Debug\ShowPersianDate.Properties.Resources.resources
+D:\msf\programming\myGit\education\ShowPersianDate\ShowPersianDate\obj\Debug\ShowPersianDate.csproj.GenerateResource.cache
+D:\msf\programming\myGit\education\ShowPersianDate\ShowPersianDate\obj\Debug\ShowPersianDate.csproj.CoreCompileInputs.cache
+D:\msf\programming\myGit\education\ShowPersianDate\ShowPersianDate\obj\Debug\ShowPersianDate.exe
+D:\msf\programming\myGit\education\ShowPersianDate\ShowPersianDate\obj\Debug\ShowPersianDate.pdb
