@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowPersianDate", "ShowPersianDate\ShowPersianDate.csproj", "{34492787-A598-4E13-BC57-54AD1E3FB4EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34492787-A598-4E13-BC57-54AD1E3FB4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34492787-A598-4E13-BC57-54AD1E3FB4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34492787-A598-4E13-BC57-54AD1E3FB4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34492787-A598-4E13-BC57-54AD1E3FB4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6753DC7-628A-4881-8C96-8D6D1720B281}
+	EndGlobalSection
+EndGlobal
